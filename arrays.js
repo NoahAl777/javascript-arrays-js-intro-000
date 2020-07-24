@@ -39,3 +39,6 @@ function destructivelyRemoveElementFromEndOfArray(array){
 function removeElementFromEndOfArray(array){
   return array.slice(0, array.length -1)
 }
+// this lesson was mindboggling haha. I didnt
+// understand how to remove elements from the middle.
+// should go over this lesson again in the future.
